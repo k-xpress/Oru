@@ -1,0 +1,20 @@
+ul li{color:gold; list-style:none; display:inline-block;}
+
+
+.main{background-color:skyblue;
+      color:white; 
+      text-align:center;}
+     
+.others{margin-top:-30px;}
+
+img{height:50px; 
+    width:50px;}
+
+.red{background-color:red; 
+     border-radius:5px;}
+     
+.box{float:left;border:outset; 
+     height:120px; width:100px; 
+     margin:2px; 
+     text-align:center; 
+     font-size:8px;}
