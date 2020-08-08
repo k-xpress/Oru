@@ -3,7 +3,9 @@ ul li{color:gold; list-style:none; display:inline-block;}
 h1{color:white;}
 .main{background-color:skyblue;
       color:white; 
-      text-align:center; margin: auto;
+      text-align:center; 
+      font-family:arial ;
+      margin:0;
       height:300px;}
    
 .boxes{margin-top:-30px;
