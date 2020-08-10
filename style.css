@@ -1,13 +1,17 @@
-ul li{color:gold; list-style:none; display:inline-block;}
+ul li{list-style:none; 
+    display:inline-block;
+    margin-right:20px;}
 
 body{font-family:Helvetica,Arial,sans-serif;
      margin:0; }
 
 h1{color:white;}
+
 .main{background-color:skyblue;
-      color:white; 
+      color:white;
+      margin-top:30px;
       text-align:center;
-      padding:100px 0;}
+      padding:130px 0;}
    
 .boxes{margin-top:-30px;
         justify-content:space-around;
@@ -24,12 +28,16 @@ img{height:50px;
      padding:4px 20px;
      color:white;}
      
-.box{
-     height:120px; width:100px; 
+.box{height:150px; 
+     width:120px; 
      margin:3px;
      box-shadow:0 3px 0 5px white;
      text-align:center;
-     font-size:8px;
+     font-size:15px;
     background-color:white;}
     
-  
+  ul li a{text-decoration:none;
+         color:black;
+         position:relative;
+         right:-800px;
+         border:ridge;}
